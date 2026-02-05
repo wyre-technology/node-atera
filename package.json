@@ -1,6 +1,6 @@
 {
   "name": "@asachs01/node-atera",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Comprehensive, fully-typed Node.js/TypeScript library for the Atera REST API v3",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",

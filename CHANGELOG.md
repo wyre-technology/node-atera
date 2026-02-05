@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/asachs01/node-atera/compare/v1.0.0...v1.0.1) (2026-02-05)
+
+
+### Bug Fixes
+
+* Wrap case block with lexical declaration in braces ([a728e10](https://github.com/asachs01/node-atera/commit/a728e103a246024ec45b163afbf49614bf2ba11d))
+
 # 1.0.0 (2026-02-05)
 
 
