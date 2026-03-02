@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/wyre-technology/node-atera/compare/v1.0.1...v1.0.2) (2026-03-02)
+
+
+### Bug Fixes
+
+* require Node 22+ (semantic-release@25 compatibility) ([631a887](https://github.com/wyre-technology/node-atera/commit/631a887a5117eb12666e409f4e7fd1f9d8b4051d))
+* require Node 22+ (semantic-release@25 compatibility) ([b6a70f7](https://github.com/wyre-technology/node-atera/commit/b6a70f75aef602e5137d7345d32d31571a2399ff))
+
 ## [1.0.1](https://github.com/asachs01/node-atera/compare/v1.0.0...v1.0.1) (2026-02-05)
 
 
